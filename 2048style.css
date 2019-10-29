@@ -1,0 +1,163 @@
+h {
+    color: rgb(28, 189, 230);
+    text-align: center;
+    font-family: fantasy;
+    font-size: 30px;
+}
+
+body {
+    background-color: white;
+    
+}
+
+h1 {
+    color: rgb(7, 7, 7);
+    text-align: center;
+    font-family: fantasy;
+    font-size: 50px;
+}
+
+
+p {
+    color: rgb(159, 41, 214);
+    font-size: 30px;
+    text-align: center;
+}
+
+.grid{
+    /* width: 1000px; */
+    display: grid;
+    grid-gap: 15px;
+    grid-template-columns: auto auto auto auto;
+    background-color: rgb(117, 98, 146);
+    padding: 20px;
+    margin: auto;
+}
+
+.grid-item-0 {
+    background-color: rgba(245, 241, 238, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 50px;
+    font-size: 60px;
+    font-weight: 900;
+    text-align: center;
+    
+  }
+
+  .grid-item-2 {
+    background-color: rgba(241, 216, 197, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 50px;
+    font-size: 60px;
+    font-weight: 900;
+    text-align: center;
+    
+  }
+  .grid-item-4 {
+    background-color: rgba(240, 171, 118, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 50px;
+    font-size: 60px;
+    font-weight: 900;
+    text-align: center;
+    
+  }
+  .grid-item-8 {
+    background-color: rgb(216, 100, 6);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 50px;
+    font-size: 60px;
+    font-weight: 900;
+    text-align: center;
+    
+  }
+  .grid-item-16 {
+    background-color: rgb(238, 77, 14);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 50px;
+    font-size: 60px;
+    font-weight: 900;
+    text-align: center;
+    
+  }
+  .grid-item-32 {
+    background-color: rgb(92, 187, 89);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 50px;
+    font-size: 60px;
+    font-weight: 900;
+    text-align: center;
+    
+  }
+  .grid-item-64 {
+    background-color: rgb(214, 202, 34);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 50px;
+    font-size: 60px;
+    font-weight: 900;
+    text-align: center;
+  }
+  .grid-item-128 {
+    background-color: rgb(34, 187, 214);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 50px;
+    font-size: 60px;
+    font-weight: 900;
+    text-align: center;
+  }
+  .grid-item-256 {
+    background-color: rgb(16, 19, 230);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 50px;
+    font-size: 60px;
+    font-weight: 900;
+    text-align: center;
+  }
+  .grid-item-512 {
+    background-color: rgb(157, 34, 214);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 50px;
+    font-size: 60px;
+    font-weight: 900;
+    text-align: center;
+  }
+  .grid-item-1024 {
+    background-color: rgb(241, 16, 166);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 50px;
+    font-size: 60px;
+    font-weight: 900;
+    text-align: center;
+  }
+  .grid-item-2048 {
+    background-color: rgb(8, 8, 1);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    color: rgb(245, 238, 238);
+    padding: 50px;
+    font-size: 60px;
+    font-weight: 900;
+    text-align: center;
+  }
+
+.b {
+    background-color: rgb(88, 129, 240); 
+    font-size: 40px; 
+    border: 1px solid rgb(12, 12, 12); 
+    color: rgb(12, 240, 240); 
+    border-radius: 10%;
+}
+
+/* .grid-container{
+    background-color: lightblue;
+    padding: 20px;
+    font-size: 30px;
+    text-align:center;
+    
+} */
+
+.score {
+    color: rgb(28, 189, 230);
+    text-align: center;
+    font-family: fantasy;
+    font-size: 30px;
+}
